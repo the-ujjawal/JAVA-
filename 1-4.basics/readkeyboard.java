@@ -11,4 +11,4 @@ int x=sc.nextInt();
 
 System.out.println(x);
 }
-}
+} 

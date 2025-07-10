@@ -1,5 +1,5 @@
 import java.lang.*;
-
+   
 class datasizerange
 {
 public static void main(String arg[])

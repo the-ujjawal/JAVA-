@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 
 class DataTypeDetails
-{
+{   
 public static void main(String arg[])
 {
 int x=5;

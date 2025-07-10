@@ -14,4 +14,4 @@ y=sc.nextInt();
 int z = x+y;
 System.out.println("Sum is"+z);
 }
-}
+} 
