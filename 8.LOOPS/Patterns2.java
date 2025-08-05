@@ -24,9 +24,6 @@ public class Patterns2 {
                 count++;
                 System.out.print(j+" ");
             }
-            
-        
-            
             System.out.println("");
         }
                 
