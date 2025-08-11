@@ -4,9 +4,9 @@ public class Rotation {
 
         for(int x : A)
             System.out.print(x+",");
-            System.out.println("");
+        System.out.println("");
 
-        // int temp = A[0];                        //Left side traversal/rotation
+        // int temp = A[0];                        //Left side traversal/
         // for (int i = 1; i < A.length; i++) {
         //     A[i-1] = A[i];
             
@@ -23,7 +23,7 @@ public class Rotation {
         A[0] = temp;
         for(int x : A)
             System.out.print(x+",");
-            System.out.println("");
+        System.out.println("");
 
     }
 }
